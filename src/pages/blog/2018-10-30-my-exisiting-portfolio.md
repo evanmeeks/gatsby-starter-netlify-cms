@@ -7,6 +7,8 @@ description: >-
   while I get my feet wet with some GraphQL and Data-driven App Design (neat!).
   Looks like I've got an actual starter that has real utility and that I can
   learn from.
+
+  http://hdremixstats.com/evan-meeks/portfolio-items/
 tags:
   - graphql
   - wordpress
@@ -29,6 +31,4 @@ tags:
   - SEO
   - YUI
 ---
-`[`http://hdremixstats.com/evan-meeks/portfolio-items/`](http://hdremixstats.com/evan-meeks/portfolio-items/)`
-
 ![Evan Meeks Portfolio](/img/download.png)

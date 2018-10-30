@@ -29,6 +29,6 @@ tags:
   - SEO
   - YUI
 ---
-``[`http://hdremixstats.com/evan-meeks/portfolio-items/ `](http://hdremixstats.com/evan-meeks/portfolio-items/)``
+``[`http://hdremixstats.com/evan-meeks/portfolio-items/`](http://hdremixstats.com/evan-meeks/portfolio-items/)``
 
 ![Evan Meeks Portfolio](/img/download.png)

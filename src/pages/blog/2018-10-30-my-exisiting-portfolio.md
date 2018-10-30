@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: My exisiting portfolio
+title: My Exisiting Portfolio
 date: 2018-10-30T15:45:06.294Z
 description: >-
   I expect I will be migrating WordPress blog a more modernized CMD (this one),
